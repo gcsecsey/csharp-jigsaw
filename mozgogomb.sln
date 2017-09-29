@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mozgogomb", "mozgogomb\mozgogomb.csproj", "{43F0EC60-FDD7-4B56-80CD-238E1C730D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F0EC60-FDD7-4B56-80CD-238E1C730D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F0EC60-FDD7-4B56-80CD-238E1C730D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F0EC60-FDD7-4B56-80CD-238E1C730D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F0EC60-FDD7-4B56-80CD-238E1C730D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8362A9C2-F7F8-4112-BBF4-2D84B87A37DD}
+	EndGlobalSection
+EndGlobal
